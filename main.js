@@ -69,3 +69,7 @@ function speak(){
 
     speak_data = "";
 }
+
+function clear_apple(){
+  canvas.background("pink");
+}
